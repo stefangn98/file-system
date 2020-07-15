@@ -1,0 +1,3 @@
+(!) Execucting B3_B1 functionality
+0 -> mythirddir
+writedisk> virtualdisk[0] = CS3026 Operating Systems Assessment
